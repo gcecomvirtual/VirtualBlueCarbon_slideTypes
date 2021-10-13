@@ -1,0 +1,2 @@
+# VirtualBlueCarbon_slideTypes
+SlidesTypes
